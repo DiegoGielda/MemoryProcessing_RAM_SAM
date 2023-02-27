@@ -1,0 +1,17 @@
+program ProjetoRAMeSAM;
+
+uses
+  Vcl.Forms,
+  uPrncipalEscolha in 'uPrncipalEscolha.pas' {frmPrincipalEscolha},
+  Vcl.Themes,
+  Vcl.Styles;
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  TStyleManager.TrySetStyle('Ruby Graphite');
+  Application.CreateForm(TfrmPrincipalEscolha, frmPrincipalEscolha);
+  Application.Run;
+end.

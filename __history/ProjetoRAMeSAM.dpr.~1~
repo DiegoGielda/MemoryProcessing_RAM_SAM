@@ -1,0 +1,14 @@
+program ProjetoRAMeSAM;
+
+uses
+  Vcl.Forms,
+  uPrncipalEscolha in 'uPrncipalEscolha.pas' {frmPrincipalEscolha};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipalEscolha, frmPrincipalEscolha);
+  Application.Run;
+end.

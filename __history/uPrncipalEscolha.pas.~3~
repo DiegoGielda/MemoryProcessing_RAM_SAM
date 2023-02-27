@@ -1,0 +1,27 @@
+unit uPrncipalEscolha;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.Buttons;
+
+type
+  TfrmPrincipalEscolha = class(TForm)
+    pnlPrincipal: TPanel;
+    SpeedButton1: TSpeedButton;
+    SpeedButton2: TSpeedButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPrincipalEscolha: TfrmPrincipalEscolha;
+
+implementation
+
+{$R *.dfm}
+
+end.

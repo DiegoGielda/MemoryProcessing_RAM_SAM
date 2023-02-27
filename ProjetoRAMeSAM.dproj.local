@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/07 08:37:26.000.855,=C:\Users\diego\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/07 08:42:18.000.040,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\uPrncipalEscolha.pas=C:\Users\diego\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/07 08:42:18.000.040,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\uPrncipalEscolha.dfm=C:\Users\diego\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/07 08:42:31.000.748,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\ProjetoRAMeSAM.dproj=C:\Users\diego\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/07 09:57:07.000.233,=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\Unit1.pas</Transaction>
+    <Transaction>2021/11/07 10:00:22.000.452,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\frmSAM.pas=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\Unit1.pas</Transaction>
+    <Transaction>2021/11/07 10:00:22.000.452,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\frmSAM.dfm=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\Unit1.dfm</Transaction>
+    <Transaction>2021/11/07 10:00:46.000.640,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\ufrmPrncipalEscolha.pas=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\uPrncipalEscolha.pas</Transaction>
+    <Transaction>2021/11/07 10:00:46.000.640,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\ufrmPrncipalEscolha.dfm=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\uPrncipalEscolha.dfm</Transaction>
+    <Transaction>2021/11/07 10:01:00.000.804,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\frmEscolha.dfm=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\ufrmPrncipalEscolha.dfm</Transaction>
+    <Transaction>2021/11/07 10:01:00.000.804,C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\frmEscolha.pas=C:\Users\diego\Documentos\Semestre_2\URI__Material\Semestre 4\4__Sistemas_Digitais__QuintaFeira\Trabalho RAM e SAM\ufrmPrncipalEscolha.pas</Transaction>
+    <Transaction>2021/11/09 23:22:45.000.166,=C:\Users\diego\Área de Trabalho\Trabalho RAM e SAM\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 23:23:30.000.055,C:\Users\diego\Área de Trabalho\Trabalho RAM e SAM\Unit1.pas=C:\Users\diego\Área de Trabalho\Trabalho RAM e SAM\frmRAM.pas</Transaction>
+    <Transaction>2021/11/09 23:23:30.000.055,C:\Users\diego\Área de Trabalho\Trabalho RAM e SAM\Unit1.dfm=C:\Users\diego\Área de Trabalho\Trabalho RAM e SAM\frmRAM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
